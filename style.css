@@ -1194,14 +1194,3 @@ footer{
     }
 }
 
-@media(max-width:786px){
-   
-.btn{
-display:none;
-}
-.menu-icon{
-   
-    position: relative;
-    right:70px;
-}
-}
