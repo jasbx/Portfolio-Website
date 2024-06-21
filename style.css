@@ -1193,3 +1193,16 @@ footer{
         padding: 13px;
     }
 }
+
+@media(max-width:786px){
+   
+.btn{
+    position: relative;
+    right: 100px;
+}
+.menu-icon{
+   
+    position: relative;
+    right:100px;
+}
+}
